@@ -1,10 +1,10 @@
-### Same model. Same Mac. 30 vs 71 tok/s. That's why I built asiai.
-
-I'm **Jean-Marc** (druide67) — I build tools for local LLM inference on Apple Silicon.
+🦞 I'm **Jean-Marc** (druide67) — I build tools for local LLM inference on Apple Silicon.
 
 **[asiai](https://github.com/druide67/asiai)** — Benchmark, monitor & compare 6 inference engines (Ollama, LM Studio, mlx-lm, llama.cpp, vllm-mlx, Exo). One CLI. Real numbers.
 
 Built because my AI agents needed to monitor their own inference. So I gave them asiai's API. They started monitoring themselves.
+
+*Bench your claw!*
 
 #### Recent discoveries
 - MLX is **2.3x faster** than llama.cpp for MoE architectures on Apple Silicon
@@ -13,7 +13,7 @@ Built because my AI agents needed to monitor their own inference. So I gave them
 
 [OpenClaw](https://github.com/openclaw/openclaw) contributor — multi-agent AI assistant.
 
-Strasbourg, France | [asiai.dev](https://asiai.dev) | [@jmn67 on X](https://x.com/jmn67)
+Strasbourg, France | [asiai.dev](https://asiai.dev) | [@jmn67 on X](https://x.com/jmn67) | [LinkedIn](https://www.linkedin.com/in/jean-marc-nahlovsky-a178b63)
 
 
 <!--
