@@ -1,3 +1,5 @@
+### Same model. Same Mac. 30 vs 71 tok/s. That's why I built asiai.
+
 🦞 I'm **Jean-Marc** (druide67) — I build tools for local LLM inference on Apple Silicon.
 
 **[asiai](https://github.com/druide67/asiai)** — Benchmark, monitor & compare 6 inference engines (Ollama, LM Studio, mlx-lm, llama.cpp, vllm-mlx, Exo). One CLI. Real numbers.
