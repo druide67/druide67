@@ -3,6 +3,7 @@
 🦞 I'm **Jean-Marc** (druide67) — I build tools for local LLM inference on Apple Silicon.
 
 **[asiai](https://github.com/druide67/asiai)** — Benchmark, monitor & compare 6 inference engines (Ollama, LM Studio, mlx-lm, llama.cpp, vllm-mlx, Exo). One CLI. Real numbers.
+
 **[claude-whisper](https://github.com/druide67/claude-whisper)** — Your Claude Code instances can now talk to each other. 
 240 lines of bash, zero daemon. The filesystem is the message bus.
 
